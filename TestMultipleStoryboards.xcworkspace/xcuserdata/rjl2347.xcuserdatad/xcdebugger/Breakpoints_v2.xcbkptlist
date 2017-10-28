@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestMultipleStoryboards/Models/DataStore.swift"
+            timestampString = "530918495.404036"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getNewUserID()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestMultipleStoryboards/Models/DataStore.swift"
+            timestampString = "530918413.871911"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getNewUserID()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestMultipleStoryboards.DataStore.getNewUserID () -&gt; Swift.Int"
+                  moduleName = "TestMultipleStoryboards"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rjl2347/Downloads/EventEm/TestMultipleStoryboards/Models/DataStore.swift"
+                  timestampString = "530918495.460692"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestMultipleStoryboards.DataStore.(getNewUserID () -&gt; Swift.Int).(closure #1)"
+                  moduleName = "TestMultipleStoryboards"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rjl2347/Downloads/EventEm/TestMultipleStoryboards/Models/DataStore.swift"
+                  timestampString = "530918495.461868"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestMultipleStoryboards/Models/DataStore.swift"
+            timestampString = "530918487.572393"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getNewUserID()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestMultipleStoryboards.DataStore.(getNewUserID () -&gt; Swift.Int).(closure #1)"
+                  moduleName = "TestMultipleStoryboards"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rjl2347/Downloads/EventEm/TestMultipleStoryboards/Models/DataStore.swift"
+                  timestampString = "530918495.465924"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "451">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestMultipleStoryboards.DataStore.(getNewUserID () -&gt; Swift.Int).(closure #1)"
+                  moduleName = "TestMultipleStoryboards"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rjl2347/Downloads/EventEm/TestMultipleStoryboards/Models/DataStore.swift"
+                  timestampString = "530918495.467312"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "502">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
